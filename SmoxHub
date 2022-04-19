@@ -1,0 +1,35 @@
+------------------------------------------------------------ Big PaintBall
+if game.PlaceId == 3527629287 then  
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/SMOXHUB/SmoxHub/main/Big%20paintball', true))()
+end
+------------------------------------------------------------ Big PaintBall
+
+------------------------------------------------------------ Legends Of Speed
+if game.PlaceId == 3101667897 then 
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/SMOXHUB/SmoxHub/main/Legends%20Of%20Speed', true))()
+end
+------------------------------------------------------------ Legends Of Speed
+
+------------------------------------------------------------ Word Bomb
+if game.PlaceId == 2653064683 then 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SMOXHUB/SmoxHub/main/Word%20Bomb"))()
+end
+------------------------------------------------------------ Word Bomb
+
+------------------------------------------------------------ Ninja Legends
+if game.PlaceId == 3956818381 then 
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/SMOXHUB/SmoxHub/main/Ninja%20Legends', true))()
+end
+------------------------------------------------------------ Ninja Legends
+
+------------------------------------------------------------ Arsenal
+if game.PlaceId == 286090429 then 
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/SMOXHUB/SmoxHub/main/Arsenal', true))()
+end
+------------------------------------------------------------ Arsenal
+
+------------------------------------------------------------ Pet sim X
+if game.PlaceId == 6284583030 then 
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/SMOXHUB/SmoxHub/main/Pet%20Simulator%20X', true))()
+end
+------------------------------------------------------------ Pet sim X
