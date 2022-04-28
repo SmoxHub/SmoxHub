@@ -34,8 +34,7 @@ if game.PlaceId == 6284583030 then
 end
 ------------------------------------------------------------ Pet sim X
 
------------------------------------------------------------- Breaking Point
-if game.PlaceId == 648362523 then 
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/SmoxHub/SmoxHub/main/Breaking-Point', true))()
-
------------------------------------------------------------- Breaking Point
+------------------------------------------------------------ Mm2
+if game.PlaceId == 142823291 then 
+https://raw.githubusercontent.com/SmoxHub/SmoxHub/main/Mm2
+------------------------------------------------------------ Mm2
