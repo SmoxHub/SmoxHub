@@ -36,6 +36,6 @@ end
 
 ------------------------------------------------------------ Mm2
 if game.PlaceId == 142823291 then 
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/SmoxHub/SmoxHub/main/Mm2', true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SmoxHub/SmoxHub/main/Mm2', true))()
 end
 ------------------------------------------------------------ Mm2
