@@ -37,5 +37,5 @@ end
 ------------------------------------------------------------ Breaking Point
 if game.PlaceId == 648362523 then 
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/SmoxHub/SmoxHub/main/Breaking-Point', true))()
-end
+
 ------------------------------------------------------------ Breaking Point
